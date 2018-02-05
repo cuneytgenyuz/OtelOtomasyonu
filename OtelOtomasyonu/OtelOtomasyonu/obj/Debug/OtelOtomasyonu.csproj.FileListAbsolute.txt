@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\Masaüstü Projeler\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\OtelOtomasyonu.exe.config
+C:\Users\user\Desktop\Masaüstü Projeler\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\OtelOtomasyonu.exe
+C:\Users\user\Desktop\Masaüstü Projeler\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\OtelOtomasyonu.pdb
+C:\Users\user\Desktop\Masaüstü Projeler\OtelOtomasyonu\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.frmGiris.resources
+C:\Users\user\Desktop\Masaüstü Projeler\OtelOtomasyonu\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.Properties.Resources.resources
+C:\Users\user\Desktop\Masaüstü Projeler\OtelOtomasyonu\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\Masaüstü Projeler\OtelOtomasyonu\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.exe
+C:\Users\user\Desktop\Masaüstü Projeler\OtelOtomasyonu\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.pdb
+C:\Users\user\Desktop\Masaüstü Projeler\OtelOtomasyonu\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.frmAnaEkran.resources
+C:\Users\user\Desktop\Masaüstü Projeler\OtelOtomasyonu\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.frmMusteriKayıt.resources
+C:\Users\user\Desktop\Masaüstü Projeler\OtelOtomasyonu\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.frmOdalar.resources
+C:\Users\user\Desktop\Masaüstü Projeler\OtelOtomasyonu\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Masaüstü Projeler\OtelOtomasyonu\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.frmMusteriBilgiler.resources
+C:\Users\user\Desktop\Masaüstü Projeler\OtelOtomasyonu\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.frmGazeteOku.resources
